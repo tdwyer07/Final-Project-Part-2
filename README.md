@@ -5,7 +5,7 @@ This is for the second part of my final project. I am building a data visualizat
 
 <div class="infogram-embed" data-id="5f069521-bebb-4ed1-ab95-9ff8928d3085" data-type="interactive" data-title="Average Wages by Country"></div><script>!function(e,t,s,i){var n="InfogramEmbeds",o=e.getElementsByTagName("script")[0],d=/^http:/.test(e.location)?"http:":"https:";if(/^\/{2}/.test(i)&&(i=d+i),window[n]&&window[n].initialized)window[n].process&&window[n].process();else if(!e.getElementById(s)){var r=e.createElement("script");r.async=1,r.id=s,r.src=i,o.parentNode.insertBefore(r,o)}}(document,0,"infogram-async","https://e.infogram.com/js/dist/embed-loader-min.js");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/5f069521-bebb-4ed1-ab95-9ff8928d3085" style="color:#989898!important;text-decoration:none!important;" target="_blank">Average Wages by Country</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
 
-The chart above show the average wages by country for 2017. As you can see, the USA ranked fourth with an average wage over $62,700. This shows that we have more money compared to many countries around the world.
+The chart above show the average wages by country for 2017. As you can see, the USA ranked fourth with an average wage just greater than $62,700. This shows that we have more money compared to many countries around the world.
 
 
 ## 2017 Average Income by County
@@ -59,3 +59,6 @@ The graph above is very similar to the other graph above it, but it concentrates
 
 
 ### Call to Action
+It is clear from the graphs above that low income counties in Pennsylvania have much higher child food insecurity rates. It is important to join together to help these children not only get enough food, but also balanced diets. As one of the wealthiest countries in the world, we must take care of each other, especially, the future generation, who are too young to work to support themselves.
+
+Add child food charities links
