@@ -62,3 +62,46 @@ The graph above is very similar to the other graph above it, but it concentrates
 It is clear from the graphs above that low income counties in Pennsylvania have much higher child food insecurity rates. It is important to join together to help these children not only get enough food, but also balanced diets. As one of the wealthiest countries in the world, we must take care of each other, especially, the future generation, who are too young to work to support themselves.
 
 Add child food charities links
+
+
+## User Research
+
+### Target Audience
+
+Pennsylvania Residents is the target audience for the project since I am drilling down into the income, food environment index, and food insecurity rates for Pennsylvania. I hope this will make it more personal and relatable for people.
+
+### Approach to Identifying Individuals to Interview
+
+Since I live and work in Pennsylvania, I picked people I know. I decided to interview my wife and two of my employees at work.
+
+### Interview Script
+
+I kept it pretty informal to ensure I did not sway their feedback too much. However, tried to capture information like the following:
+
+1. What are your initial reactions to the graphs?
+2. Do you feel the story flows well? Does it make sense?
+3. What changes would you make to the graphs?
+
+### Findings from Interviews
+
+1. For the bar chart, instead of showing all of the countries in the data, only show the top 10 or so. This will help with the readability of the chart. The initial version was too long to view all at once
+2. Highlight the USA in the bar chart to call attention
+3. Reformat numbers on the bar charts with commas
+4. For the maps, try a darker background color so the lighter colors show better
+5. Make sure axis labels are correct
+6. Add more text to the story in between the graphs
+7. Make sure the colors are similar in the graph (Darker usually means better)
+8. look at the outlier in the scatterplot. Maybe explain this further
+
+
+### Implemented and Planned Changes
+
+1. Showed only the top 10 countries in the bar chart
+2. Highlight USA in Red
+3. Added commas to the numeric axis labels
+4. working on trying on having darker background in HTML for the final version
+5. checked and updated the axis labels to make sure they were more clear
+6. wrote more of the story in between the graphs
+7. updated colors on the map graphs to make sure lighter is negative and darker is positive
+8. Added more context in the text
+
